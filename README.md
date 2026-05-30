@@ -1,3 +1,5 @@
+no i am not gonna update this i made this when i was a wee lad
+
 IMPORTANT: This tool only works with manga downloaded off of mangakatana.com, you can modify the code if you need to and fork it or something
 
 This is for you swashbuckling eyepatchers who read manga off of mangakatana.com.
